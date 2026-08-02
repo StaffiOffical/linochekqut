@@ -5,7 +5,7 @@ README для репозитория твоего профиля (репозит
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C65A2E,100:1A1A1A&height=220&section=header&text=Привет,%20я%20%5BИмя%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Делаю%20сайты%20и%20монтирую%20видео&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C65A2E,100:1A1A1A&height=220&section=header&text=Привет,%20я%20%5BLINOCHEKQUT%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Делаю%20сайты%20и%20монтирую%20видео&descAlignY=62&descSize=18" width="100%"/>
 
 <a href="https://github.com/твой_ник">
   <img src="https://readme-typing-svg.demolab.com/?font=Georgia&size=22&pause=1000&color=C65A2E&center=true&vCenter=true&width=600&lines=Верстаю+лендинги+и+сайты-визитки;Монтирую+рекламные+ролики+и+влоги;Открыт+для+заказов+на+фрилансе" alt="typing" />
