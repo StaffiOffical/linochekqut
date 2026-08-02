@@ -44,18 +44,18 @@ README для репозитория твоего профиля (репозит
 
 <div align="center">
 
-<a href="https://github.com/твой_ник/cafe-landing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=твой_ник&repo=cafe-landing&theme=dark&hide_border=true&title_color=C65A2E"/>
+<a href="https://github.com/StaffiOffical/cafe-landing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StaffiOffical&repo=cafe-landing&theme=dark&hide_border=true&title_color=C65A2E"/>
 </a>
-<a href="https://github.com/твой_ник/photographer-portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=твой_ник&repo=photographer-portfolio&theme=dark&hide_border=true&title_color=C65A2E"/>
+<a href="https://github.com/StaffiOffical/photographer-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StaffiOffical&repo=photographer-portfolio&theme=dark&hide_border=true&title_color=C65A2E"/>
 </a>
 
-<a href="https://github.com/твой_ник/shop-catalog">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=твой_ник&repo=shop-catalog&theme=dark&hide_border=true&title_color=C65A2E"/>
+<a href="https://github.com/StaffiOffical/shop-catalog">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StaffiOffical&repo=shop-catalog&theme=dark&hide_border=true&title_color=C65A2E"/>
 </a>
-<a href="https://github.com/твой_ник/video-ad-showcase">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=твой_ник&repo=video-ad-showcase&theme=dark&hide_border=true&title_color=C65A2E"/>
+<a href="https://github.com/StaffiOffical/video-ad-showcase">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StaffiOffical&repo=video-ad-showcase&theme=dark&hide_border=true&title_color=C65A2E"/>
 </a>
 
 </div>
@@ -64,14 +64,14 @@ README для репозитория твоего профиля (репозит
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=твой_ник&show_icons=true&theme=dark&hide_border=true&title_color=C65A2E&icon_color=C65A2E" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=твой_ник&layout=compact&theme=dark&hide_border=true&title_color=C65A2E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=StaffiOffical&show_icons=true&theme=dark&hide_border=true&title_color=C65A2E&icon_color=C65A2E" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaffiOffical&layout=compact&theme=dark&hide_border=true&title_color=C65A2E" height="165"/>
 
 </div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=твой_ник&color=c65a2e&style=flat-square&label=Просмотров+профиля)
+![Profile views](https://komarev.com/ghpvc/?username=StaffiOffical&color=c65a2e&style=flat-square&label=Просмотров+профиля)
 
 </div>
 
